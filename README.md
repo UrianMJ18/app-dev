@@ -19,7 +19,6 @@ The story revolves around the sudden appearance of Loki, the Norse god of mischi
 - **Black Widow / Natasha Romanoff**: Played by Scarlett Johansson.
 - **Hawkeye / Clint Barton**: Played by Jeremy Renner.
 - **Loki**: Played by Tom Hiddleston.
-- **Nick Fury**: Played by Samuel L. Jackson.
 
 ## Key Features
 
